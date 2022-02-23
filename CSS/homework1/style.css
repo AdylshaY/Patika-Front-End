@@ -1,0 +1,38 @@
+.navbar {
+    text-align: center;
+}
+.navbar>a{
+    color: white;
+    background-color: purple;
+    border: 1px solid #fff ;
+    padding: 10px;
+    border-radius: 15px;
+
+}
+.navbar>a:hover{
+    background-color: grey;
+}
+
+ul {
+    list-style-type: none;
+
+    margin: 0;
+
+    padding: 0;
+
+    overflow: hidden;
+}
+
+li {
+    text-align: center;
+}
+
+.list-item{
+    max-width: 750px;
+    margin: auto;
+}
+
+div {
+    max-width: 750px;
+    margin: auto;
+}

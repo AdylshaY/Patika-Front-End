@@ -1,0 +1,25 @@
+.row1 {
+    background-color: #EEEE;
+    
+}
+
+.search-bar {
+    width: 500;
+}
+
+.td1 {
+    background-color: #7EE5DA;
+    width: 37%;
+}
+
+.td2 {
+    background-color: #70CCC2;
+}
+
+.td3 {
+    background-color: #62B3AA;
+}
+
+footer{
+    font-size: small;
+}

@@ -1,0 +1,34 @@
+.bottom-border-dark {
+    border-bottom: solid 1px rgba(41, 41, 41, 1);
+}
+
+.nav-bg-color {
+    background-color: #FFC017;
+}
+
+.start-writing {
+    border-radius: 25px;
+    font-weight: 400;
+    color: rgba(8, 8, 8, 1);
+}
+
+.font-header {
+    font-family: gt-super, Georgia, Cambria, "Times New Roman", Times, serif;
+    font-weight: 400;
+    font-size: 70px;
+    color: rgba(8, 8, 8, 1);
+}
+
+.font-article {
+    font-family: sohne, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    color: rgba(41, 41, 41, 1);
+}
+
+.bg-image {
+    background-image: url(https://miro.medium.com/max/698/4*BIK9VGjeCj2TaTDw4id2nA.png);
+    background-repeat: no-repeat;
+    background-position: bottom 1px right 32px;
+    background-size: 385px 341px;
+}
